@@ -34,31 +34,6 @@ let songs = [
     filePath: "songs/5.mp3",
     coverPath: "covers/5.png",
   },
-  {
-    songName: "No Rival",
-    filePath: "songs/2.mp3",
-    coverPath: "covers/6.jpg",
-  },
-  {
-    songName: "Like You",
-    filePath: "songs/2.mp3",
-    coverPath: "covers/7.jpg",
-  },
-  {
-    songName: "Beam",
-    filePath: "songs/2.mp3",
-    coverPath: "covers/8.jpg",
-  },
-  {
-    songName: "The Edge",
-    filePath: "songs/2.mp3",
-    coverPath: "covers/9.jpg",
-  },
-  {
-    songName: "Take our Time",
-    filePath: "songs/4.mp3",
-    coverPath: "covers/10.jpg",
-  },
 ];
 
 songItems.forEach((element, i) => {
